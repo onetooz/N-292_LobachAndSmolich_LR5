@@ -22,3 +22,4 @@ function getDisplayName(part) {
   };
   return names[part] || part;
 }
+
